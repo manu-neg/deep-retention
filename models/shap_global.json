@@ -1,0 +1,43 @@
+{
+  "variables": [
+    "Complain",
+    "CardType",
+    "Balance",
+    "saldo_cero",
+    "IsActiveMember",
+    "NumOfProducts",
+    "Age",
+    "PointEarned",
+    "EstimatedSalary",
+    "Geography",
+    "SatisfactionScore",
+    "CreditScore",
+    "Gender",
+    "Tenure",
+    "HasCrCard"
+  ],
+  "importancia_media_abs": [
+    0.27383187891812444,
+    0.0021611268115763454,
+    0.0018047213218442123,
+    0.0012260130534864667,
+    0.0012235794317279457,
+    0.0010360002723832447,
+    0.000941326446249704,
+    0.000827771035345496,
+    0.0007185779871717532,
+    0.0006946928554320749,
+    0.0005404695981431304,
+    0.0005257392791168354,
+    0.0003887697456644428,
+    0.0002571745271199766,
+    0.0002197811625214934
+  ],
+  "factores_principales": [
+    "Complain",
+    "CardType",
+    "Balance"
+  ],
+  "n_clientes": 500,
+  "fondo_k": 100
+}

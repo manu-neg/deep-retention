@@ -1,0 +1,78 @@
+{
+  "columnas_escaladas": [
+    "CreditScore",
+    "Age",
+    "Tenure",
+    "Balance",
+    "NumOfProducts",
+    "EstimatedSalary",
+    "SatisfactionScore",
+    "PointEarned"
+  ],
+  "media": [
+    650.781,
+    38.94542857142857,
+    5.004,
+    76656.24354857142,
+    1.531,
+    99488.80978857142,
+    3.0125714285714285,
+    607.2921428571428
+  ],
+  "escala": [
+    96.66621752416182,
+    10.563435275341376,
+    2.887061976671588,
+    62320.44162328877,
+    0.583251109851372,
+    57461.35443604285,
+    1.412034687670127,
+    225.22323261531852
+  ],
+  "columnas_directas": [
+    "HasCrCard",
+    "IsActiveMember",
+    "Complain",
+    "saldo_cero"
+  ],
+  "categorias": {
+    "Geography": [
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "Gender": [
+      "Female",
+      "Male"
+    ],
+    "CardType": [
+      "SILVER",
+      "GOLD",
+      "PLATINUM",
+      "DIAMOND"
+    ]
+  },
+  "nombres_salida": [
+    "CreditScore",
+    "Age",
+    "Tenure",
+    "Balance",
+    "NumOfProducts",
+    "EstimatedSalary",
+    "SatisfactionScore",
+    "PointEarned",
+    "HasCrCard",
+    "IsActiveMember",
+    "Complain",
+    "saldo_cero",
+    "Geography_France",
+    "Geography_Germany",
+    "Geography_Spain",
+    "Gender_Female",
+    "Gender_Male",
+    "CardType_SILVER",
+    "CardType_GOLD",
+    "CardType_PLATINUM",
+    "CardType_DIAMOND"
+  ]
+}

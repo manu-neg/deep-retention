@@ -1,0 +1,20 @@
+.venv/
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+colab_bundle.zip
+artefactos.zip
+.DS_Store
+.streamlit/secrets.toml
+.env
+*.tmp
+*.pkl
+*.pickle
+*.joblib
+
+# Archivos internos del equipo, fuera del repositorio
+CLAUDE.md
+.claude/
+especificaci_n_del_proyecto_ia.md
